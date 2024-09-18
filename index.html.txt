@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Premium Real Estate Exam Prep by Romayne Stephenson. Pass your real estate exam with top-quality study guides, flashcards, and practice questions.">
+    <title>Premium Real Estate Exam Prep by Romayne Stephenson</title>
+    <style>
+        /* General reset for consistency across browsers */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        /* Body and General Styling */
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            line-height: 1.6;
+            padding-bottom: 50px;
+        }
+
+        /* Header Styling */
+        header {
+            background-color: #00457c;
+            color: #ffffff;
+            padding: 40px 0;
+            text-align: center;
+        }
+
+        header h1 {
+            font-size: 2.5rem;
+            font-weight: 700;
+            margin-bottom: 10px;
+        }
+
+        header p {
+            font-size: 1.25rem;
+            font-weight: 300;
+        }
+
+        /* Introduction Section */
+        .intro {
+            background-color: #ffffff;
+            padding: 40px 20px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        .intro h2 {
+            font-size: 1.8rem;
+            color: #00457c;
+        }
+
+        .intro p {
+            font-size: 1.2rem;
+            margin-top: 15px;
+        }
+
+        /* Container for Content */
+        .container {
+            width: 90%;
+            max-width: 1200px;
+            margin: 40px auto;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        /* Product Card Styling */
+        .product-card {
+            background-color: #ffffff;
+            border-radius: 10px;
+            padding: 30px;
+            margin-bottom: 30px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+            width: 100%;
+            max-width: 800px;
+            transition: transform 0.3s ease;
+        }
+
+        .product-card:hover {
+            transform: translateY(-5px);
+        }
+
+        .product-card h2 {
+            font-size: 1.75rem;
+            color: #00457c;
+            margin-bottom: 15px;
+        }
+
+        .product-card p {
+            font-size: 1.1rem;
+            margin-bottom: 20px;
+        }
+
+        .product-image {
+            width: 100%;
+            max-width: 400px;
+            border-radius: 10px;
+            margin-bottom: 15px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        /* Call-to-Action Button Styling */
+        .cta-button {
+            display: inline-block;
+            background-color: #0072b1;
+            color: #ffffff;
+            padding: 12px 25px;
+            text-decoration: none;
+            font-size: 1rem;
+            border-radius: 8px;
+            transition: background-color 0.3s ease;
+        }
+
+        .cta-button:hover {
+            background-color: #00457c;
+        }
+
+        /* Video Styling */
+        .video-container {
+            width: 100%;
+            max-width: 800px;
+            margin-bottom: 40px;
+            position: relative;
+            padding-top: 56.25%; /* 16:9 Aspect Ratio */
+        }
+
+        iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            border-radius: 10px;
+            box-shadow: 0 6px 15px rgba(0, 0, 0, 0.1);
+        }
+
+        /* Chat Box Styling */
+        .chat-box {
+            background-color: #f4f4f4;
+            border: 1px solid #ccc;
+            padding: 20px;
+            width: 100%;
+            max-width: 800px;
+            margin-top: 30px;
+        }
+
+        .chat-box h2 {
+            font-size: 1.75rem;
+            color: #00457c;
+            margin-bottom: 15px;
+        }
+
+        .chat-box textarea {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            margin-bottom: 10px;
+        }
+
+        .chat-box button {
+            background-color: #0072b1;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        /* Footer Styling */
+        footer {
+            background-color: #00457c;
+            color: white;
+            padding: 20px 0;
+            text-align: center;
+            font-size: 1rem;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Premium Real Estate Exam Prep</h1>
+    <p>By Romayne Stephenson</p>
+</header>
+
+<!-- Introduction Section -->
+<div class="intro">
+    <h2>Welcome to Premium Real Estate Exam Prep</h2>
+    <p>We’re proud to offer carefully curated, high-quality study materials to help you succeed in passing your real estate exam on the first try. With expert tips, state-specific content, and comprehensive practice tools, our guides empower you to achieve your career goals.</p>
+    <p>Our guides offer more than just study questions—they give you the confidence and understanding needed to tackle real-life real estate situations. Your success is our mission.</p>
+</div>
+
+<div class="container">
+
+    <!-- Video Section -->
+    <div class="video-container">
+        <iframe src="https://www.youtube.com/embed/FdgqbztMBh4?autoplay=1&mute=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </div>
+
+    <!-- Real Estate Comprehension Examination Checklist Product Card -->
+    <div class="product-card">
+        <img src="https://i.ibb.co/9b64MQV/real-estate-california.png" alt="Real Estate Comprehension Checklist" class="product-image">
+        <h2><a href="https://stephenson27.gumroad.com/l/imlidq?_gl=1*11l145a*_ga*MzY4OTk3NDIzLjE3MjY2ODQ1NDA.*_ga_6LJN6D94N6*MTcyNjY4NDU0MC4xLjEuMTcyNjY4NDYxMC4wLjAuMA.." target="_blank">Real Estate Comprehension Examination Checklist</a></h2>
+        <p>Our detailed checklist breaks down everything you need to know, covering critical exam areas with a focus on what truly matters. You’ll feel prepared and confident after working through each section.</p>
+        <p><strong>Tip:</strong> Focus on reviewing the most challenging topics first, such as real estate law and state-specific regulations, to give yourself a head start on exam day.</p>
+    </div>
+
+    <!-- Real Estate Exam Mastery: Pass on Your First Try Product Card -->
+    <div class="product-card">
+        <img src="https://i.ibb.co/hYZZ1Zq/real-estate-florida.png" alt="Real Estate Exam Mastery" class="product-image">
+        <h2><a href="https://stephenson27.gumroad.com/l/lcett?_gl=1*1r2ijtw*_ga*MzY4OTk3NDIzLjE3MjY2ODQ1NDA.*_ga_6LJN6D94N6*MTcyNjY4NDU0MC4xLjEuMTcyNjY4NDYxMC4wLjAuMA.." target="_blank">Real Estate Exam Mastery: Pass on Your First Try</a></h2>
+        <p>Get all the tools and resources you need to master the real estate exam and pass on your first attempt. This guide covers everything from key topics to exam strategies.</p>
+    </div>
+
+    <!-- Chat Box -->
+    <div class="chat-box">
+        <h2>Real Estate Exam Discussion</h2>
+        <textarea placeholder="Join the conversation..."></textarea>
+        <button>Send</button>
+    </div>
+
+</div>
+
+<footer>
+    <p>&copy; 2024 Romayne Stephenson's Premium Real Estate Exam Prep | All Rights Reserved</p>
+</footer>
+
+</body>
+</html>
