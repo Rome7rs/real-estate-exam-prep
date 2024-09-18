@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Real Estate Exam Prep by Romayne Stephenson</title>
+    <style>
+        body {
+            font-family: 'Helvetica Neue', Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+            color: #333;
+        }
+        header {
+            background-color: #002244;
+            color: white;
+            padding: 30px 0;
+            text-align: center;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        header h1 {
+            font-size: 42px;
+            font-weight: 700;
+            margin: 0;
+        }
+        header p {
+            font-size: 20px;
+            margin: 10px 0;
+        }
+        nav {
+            text-align: center;
+            padding: 20px;
+            background-color: #001b33;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 25px;
+            font-size: 18px;
+            font-weight: bold;
+            padding: 10px;
+            border-bottom: 2px solid transparent;
+            transition: border-bottom 0.3s ease;
+        }
+        nav a:hover {
+            border-bottom: 2px solid gold;
+        }
+        section {
+            margin: 60px auto;
+            width: 90%;
+            max-width: 1200px;
+        }
+        section h2 {
+            font-size: 32px;
+            margin-bottom: 30px;
+            color: #002244;
+            font-weight: 600;
+            text-align: center;
+        }
+        section p {
+            font-size: 20px;
+            line-height: 1.8;
+            margin: 20px 0;
+            color: #555;
+        }
+        footer {
+            text-align: center;
+            padding: 30px;
+            background-color: #002244;
+            color: white;
+        }
+        .cta {
+            background-color: #001b33;
+            color: white;
+            padding: 25px;
+            text-align: center;
+            margin: 50px 0;
+            font-size: 20px;
+            font-weight: bold;
+            border-radius: 8px;
+        }
+        .cta a {
+            color: #ffffff;
+            text-decoration: none;
+            padding: 12px 30px;
+            background-color: #0066cc;
+            border-radius: 8px;
+            transition: background-color 0.3s ease;
+        }
+        .cta a:hover {
+            background-color: gold;
+        }
+        iframe {
+            display: block;
+            margin: 40px auto;
+            max-width: 100%;
+            border-radius: 12px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+        }
+        img {
+            display: block;
+            margin: 40px auto;
+            max-width: 100%;
+            height: auto;
+            border-radius: 12px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Real Estate Exam Prep by Romayne Stephenson</h1>
+    <p>Your guide to passing the real estate exam with confidence</p>
+</header>
+
+<nav>
+    <a href="#about">About the Guides</a>
+    <a href="#books">Books</a>
+    <a href="#features">Features</a>
+    <a href="#contact">Contact</a>
+</nav>
+
+<section id="about">
+    <h2>About the Guides</h2>
+    <p>The <strong>Real Estate Comprehensive Examination Preparation Checklist</strong> is designed to help aspiring real estate agents pass their state exams with ease. With guides tailored to specific states, you'll get targeted content that aligns with your exam requirements.</p>
+    <p>Each guide is packed with essential information, practice questions, and now, flashcards to help reinforce key concepts.</p>
+    <img src="https://i.ibb.co/9b64MQV/IMG-2079.jpg" alt="Real Estate Exam Prep Book Image">
+</section>
+
+<section id="books">
+    <h2>Books</h2>
+    <p>Romayne Stephenson is currently working on a series of state-specific real estate exam prep books. These include:</p>
+    <ul>
+        <li>California Real Estate Exam Guide</li>
+        <li>Florida Real Estate Exam Guide</li>
+        <li>Texas Real Estate Exam Guide</li>
+    </ul>
+    <p>Purchase the guides here:</p>
+    <ul>
+        <li><a href="https://stephenson27.gumroad.com/l/imlidq" target="_blank"><strong>Real Estate Comprehensive Examination Preparation Checklist</strong></a></li>
+        <li><a href="https://stephenson27.gumroad.com/l/lcett" target="_blank"><strong>Real Estate Exam Mastery: Pass on Your First Try</strong></a></li>
+    </ul>
+    <!-- Optimized video for faster auto-play -->
+    <iframe src="https://drive.google.com/file/d/13vGhXkOqTXcTYUILzBKtVOeuOiser783/preview?autoplay=1&muted=1" width="800" height="450" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen loading="lazy"></iframe>
+</section>
+
+<section id="features">
+    <h2>Features</h2>
+    <ul>
+        <li>State-specific real estate exam guides</li>
+        <li>Flashcards for key concepts and terms</li>
+        <li>Practice questions and mock exams</li>
+        <li>Easy-to-follow checklist format</li>
+        <li>Regularly updated content to reflect current exam formats</li>
+    </ul>
+    <img src="https://i.ibb.co/hYZZ1Zq/IMG-2079.jpg" alt="Professional Real Estate Exam Preparation">
+</section>
+
+<section id="contact">
+    <h2>Get in Touch</h2>
+    <div class="cta">
+        <p>Interested in learning more or purchasing the guides?</p>
+        <a href="mailto:contact@realestateprep.com">Email Us</a>
+    </div>
+</section>
+
+<footer>
+    <p>Real Estate Exam Prep Guides by Romayne Stephenson &copy; 2024</p>
+</footer>
+
+</body>
+</html>
